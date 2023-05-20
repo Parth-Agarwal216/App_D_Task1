@@ -1,16 +1,6 @@
-# itsme
+<img width="728" alt="Screenshot 2023-05-20 at 12 39 34 PM" src="https://github.com/GeekyPS/Coding-Week-23-App-D-Task/assets/97830682/4cdc299d-6c0e-4dea-b832-31e0aee36d80">
 
-A new Flutter project.
+# It's Me
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone this repo and make the required changes
