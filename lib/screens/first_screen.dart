@@ -24,18 +24,18 @@ class FirstScreen extends StatelessWidget {
                   children: [
                     PhotoFrame(
                       socials: {
-                        'linkedin': 'https://linkedin.com',
-                        'github': 'https://github.com',
-                        'instagram': 'https://instagram.com'
+                        'linkedin': 'https://www.linkedin.com/in/parth-agarwal-465a1924b',
+                        'github': 'https://github.com/Parth-Agarwal216',
+                        'instagram': 'https://instagram.com/__parth__a?igshid=MzNlNGNkZWQ4Mg=='
                       },
-                      photo: 'https://xsgames.co/randomusers/avatar.php?g=male',
-                      name: 'Coding Elite',
+                      photo: 'https://drive.google.com/file/d/1PaI8fRUs1dGmLmnJdOwnYM8FLFp-JUtU/view?usp=share_link',
+                      name: ' Parth the Coding Elite',
                     ),
                     SizedBox(
                       height: 10,
                     ),
                     Text(
-                      'Priyanshu\nSrivastava',
+                      'Parth\nAgarwal',
                       maxLines: 2,
                       style: TextStyle(
                           color: Colors.white,
